@@ -1,0 +1,32 @@
+{
+    "stage1": {
+        "name": "Не обработанные",
+        "stage": 1,
+        "color": "#DFDFDF"
+    },
+    "stage2": {
+        "name": "В обработке",
+        "stage": 2,
+        "color": "#FFE5AO"
+    },
+    "stage3": {
+        "name": "Ком. предложение",
+        "stage": 3,
+        "color": "#D8A6FF"
+    },
+    "stage4": {
+        "name": "Сделка",
+        "stage": 4,
+        "color": "#EDFF82"
+    },
+    "stage5": {
+        "name": "Оплата",
+        "stage": 5,
+        "color": "#6BFF5F"
+    },
+    "stage6": {
+        "name": "Не качественный лид",
+        "stage": 6,
+        "color": "#"
+    }
+}
